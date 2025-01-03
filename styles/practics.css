@@ -1,0 +1,30 @@
+.header{
+    height: 300px; 
+    /* background-color:rgb(237, 163, 234) ; */
+    /* background-image:url(birds.jpg) ; */
+    /* background-image: url(../cat2.jpg); */
+    background-image: url('../images/bird.jpg');
+    /* background-repeat: no-repeat;  */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+     /* background-size: 300px;   */
+     /* background-position: center; */
+ 
+ }
+.First, .Second{
+   
+    color:rgb(10, 86, 72);
+    background-color: rgb(244, 190, 149);
+    text-align: center;
+    border-radius: 0px 10px 10px 10px;
+    padding: 10px;
+    width : 70%;
+    box-shadow: 5px 5px 5px rgb(137, 60, 6);
+    margin:10px;
+    border-right: 10px solid rgb(146, 111, 78);
+    border-bottom: 5px solid rgb(167, 110, 46);
+    /* border-right:10px solid rgb(16, 192, 139);
+    border-bottom: 10px solid rgb(16, 192, 139); */
+}
